@@ -246,3 +246,10 @@ Tipos de mudanças
     Removed/Removido: para recursos removidos nesta versão.
     Fixed/Corrigido: para qualquer correção de bug.
     Security/Segurança: em caso de vulnerabilidades.
+    Chore - pequena tarefa
+    Fix - correções
+    Feat - inclusão de funcionalidade
+    Docs - atualização de documentação
+
+# = tamanho do titulo (Sendo menos # maior o título)
+- = Bolinha de itens
